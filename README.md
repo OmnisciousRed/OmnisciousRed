@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**OmnisciousRed/OmnisciousRed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Willkommen auf meinem GitHub-Profil 👋
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Kontakt & Socials
+---
+
+## Über mich 🚀
+
+Hallo, ich bin **Dein Name** — ein leidenschaftlicher Entwickler fokussiert auf sauberen, skalierbaren Code.
+
+- 💻 Aktuell lerne/arbeite ich mit: Python, TypeScript, etc.
+- ⚙️ Ich interessiere mich für: Webentwicklung, Netzwerke & Security
+- 🤝 Offen für kollaborative Projekte
+
+---
+
+## Technologien 🛠️
+
+### Core Technologies
+---
+
+## Statistiken 📊
+
+### Programmiersprachen & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
