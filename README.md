@@ -1,6 +1,9 @@
 <div align="center">
+  <img src="./banner.gif" alt="Mein animiertes Banner" width="100%">
+</div>
+<div align="center">
 
-# Willkommen auf meinem GitHub-Profil 👋
+# Hello 👋
 
 ---
 
