@@ -5,11 +5,12 @@
 <div align="center">
 
 # Hello 👋
+From Germany
 
 ---
 
 ## 🔗 Connect with me
-From Germany
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DEIN_LINKEDIN_USERNAME)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/DEINE_DISCORD_USER_ID)
 
